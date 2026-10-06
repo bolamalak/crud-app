@@ -1,0 +1,43 @@
+body {
+    font-family: Arial;
+    margin: 30px;
+    background-color: #f7f9fc;
+}
+
+h1 {
+    color: #4a6fa5;
+}
+
+input {
+    padding: 7px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    padding: 7px 12px;
+    background-color: #6c9bcf;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th {
+    background-color: #dbeafe;
+}
+
+th, td {
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+a {
+    color: #4a6fa5;
+    margin: 5px;
+}
